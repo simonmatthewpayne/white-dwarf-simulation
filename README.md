@@ -8,4 +8,4 @@ This is a simple Python simulation of a white dwarf star model using a 4th order
 - Explores the Chandrasekhar limit
 
 ## How to run
-Requires Python 3.13 and via the CMD "pip install numpy matplotlib" then run white_dwarf_simulation.py
+Requires Python 3.13 and via the CMD "pip install numpy matplotlib" then run "white_dwarf_simulation.py"
